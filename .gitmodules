@@ -1,6 +1,1 @@
-[submodule "themes/KeepIt"]
-	path = themes/KeepIt
-	url = https://github.com/Fastbyte01/KeepIt.git
-	[submodule "themes/keepit-custom"]
-		path = themes/keepit-custom
-		url = https://github.com/limonmecanico/keepit-custom.git
+
