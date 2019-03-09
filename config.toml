@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Alberto Martin"
 theme = "KeepIt"
 
 paginate = 12
