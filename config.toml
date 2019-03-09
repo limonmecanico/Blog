@@ -54,20 +54,20 @@ googleAnalytics = ""
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.social]
-    GitHub = "xxxx"
     Linkedin = "xxxx"
     Twitter = "xxxx"
-    Email   = "xxxx"
     Medium = "xxxx"
+    GitHub = "xxxx"
+    Email   = "xxxx"
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "Alberto Martín"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "Alberto Martín"
 
     [params.publisher.logo]
       url = "logo.png"
