@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "es"
 defaultContentLanguage = "es"
-title = "Alberto Martin"
+title = "Alberto Martín | Product Manager"
 theme = "custom"
 paginate = 12
 enableEmoji = true
