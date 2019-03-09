@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "Alberto Martin"
 theme = "KeepIt"
 
@@ -41,7 +41,7 @@ googleAnalytics = ""
 [params]
     since = 2019
     author = "Alberto Martín"               # Author's name
-    avatar = "static/images/me/avatar.jpeg"           # Author's avatar
+    avatar = "images/me/avatar.jpeg"           # Author's avatar
     subtitle = "Product Manager @ Axel Springer | Desarrollo de Audiencias y Proyectos Digitales, SEO, Analítica Web, UX, Growth Hacking"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
