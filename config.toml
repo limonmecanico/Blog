@@ -20,7 +20,7 @@ googleAnalytics = ""
   noreferrerLinks = true
 
 [Permalinks]
- posts = "/:year/:filename/"
+ posts = "/:filename/"
 
 [menu]
   [[menu.main]]
@@ -29,20 +29,20 @@ googleAnalytics = ""
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
+    name = "Categorías"
     url = "/categories/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "Sobre mí"
     url = "/about"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
+    since = 2019
+    author = "Alberto Martín"               # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
-    subtitle = "A Hugo theme"       # Subtitle
+    subtitle = "Product Manager @ Axel Springer | Desarrollo de Audiencias y Proyectos Digitales, SEO, Analítica Web, UX, Growth Hacking"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
