@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "es"
 defaultContentLanguage = "es"
 title = "Alberto Martin"
-theme = "KeepIt"
+theme = "keepit-custom"
 
 paginate = 12
 enableEmoji = true
