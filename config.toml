@@ -41,7 +41,7 @@ googleAnalytics = ""
 [params]
     since = 2019
     author = "Alberto Martín"               # Author's name
-    avatar = "images/me/avatar.jpeg"           # Author's avatar
+    avatar = "images/me/avatar.jpg"           # Author's avatar
     subtitle = "Product Manager @ Axel Springer | Desarrollo de Audiencias y Proyectos Digitales, SEO, Analítica Web, UX, Growth Hacking"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
@@ -55,10 +55,9 @@ googleAnalytics = ""
 
 [params.social]
     Linkedin = "xxxx"
-    Twitter = "xxxx"
+    Twitter = "limonmecanico"
     Medium = "xxxx"
-    GitHub = "xxxx"
-    Email   = "xxxx"
+    GitHub = "limonmecanico"
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
